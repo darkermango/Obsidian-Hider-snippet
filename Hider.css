@@ -1,0 +1,66 @@
+/*
+*******************************
+if you like this snippet please ⭐ it at https://github.com/cheaderthecoder/obsidian-link
+*******************************
+*/
+
+/* 
+*****************************************
+<Sumary>
+Hide Unwanted Elements
+</Sumary>
+*****************************************
+*/
+
+/* Remove folder graph tree line's */
+.tree-item-children.nav-folder-children {
+  border-inline-start: none;
+} 
+
+/* hide top left bar [first selector] */
+html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1)
+{
+ display: none;
+} 
+
+/* Remove Paddig Above Folders and remove padding for bookmarks (just empty space that 
+looks bad if you remove the top left bar) */
+body > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1),
+html > body > div:nth-of-type(2) > div:first-of-type > div > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > div > div:first-of-type
+{
+  display: none;
+} 
+
+
+/* Hide Side Bar Ribbon (you can also do this from settings instead) */
+.workspace-ribbon.side-dock-ribbon.mod-left
+{
+  display: none;
+} 
+
+/* Hide Top Right Clutter */
+.sidebar-toggle-button.mod-right[data-tooltip-position="left"],
+html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(4)
+{
+ display: none;
+} 
+
+/* Remove Valut Name and Vault info */
+html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1)
+{
+  display: none;
+} 
+
+
+/* 
+Hide Word Count and stuff like that (from bottem corner) 
+html > body > div:nth-of-type(2) > div:nth-of-type(2)
+{
+  display: none;
+} */
+
+
+.inline-title
+{
+  text-align: center;
+}
