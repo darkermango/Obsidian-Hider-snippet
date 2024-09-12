@@ -19,4 +19,6 @@
    - You should see the `hider` snippet listed. Toggle it on to apply the style.
 
 
-   
+
+## License
+This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE](LICENSE) file for details.
