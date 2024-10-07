@@ -9,8 +9,8 @@
 
 ## Installation
 1. **Download the Snippet:**
-   - [Hider.css](https://github.com/cheaderthecoder/Obsidian-Hider-snippet/blob/main/Hider.css)
-   - Place the downloaded CSS file into your Obsidian snippets folder. This is typically found at `\.obsidian\snippets\` on Windows, or `~/Library/Application Support/obsidian/snippets/` on macOS.
+   - [Download Hider.css](https://github.com/cheaderthecoder/Obsidian-Hider-snippet/latest)
+   - Place the downloaded CSS snippet into your Obsidian snippets folder. This is typically found at `\.obsidian\snippets\` on Windows, or `~/Library/Application Support/obsidian/snippets/` on macOS.
 
 
 2. **Enable the Snippet:**
