@@ -1,4 +1,9 @@
 # Obsidian-Hder-snippet
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/cheaderthecoder/Obsidian-Hider-snippet/total)
+![GitHub top language](https://img.shields.io/github/languages/top/cheaderthecoder/Obsidian-Hider-snippet)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cheaderthecoder/Obsidian-Hider-snippet)
+![GitHub License](https://img.shields.io/github/license/cheaderthecoder/Obsidian-Hider-snippet)
+
  A CSS snippet that hides alot unwanted UI for a more minimal look
 
 
