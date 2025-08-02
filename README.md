@@ -8,7 +8,7 @@
 
 
 > ### Important‼️
-> This snippet has alot of HARDCODED CSS so it may not hide everything for you, I will try to update this snippet to be less HARDCODED over time.
+> This snippet has alot of hardecodded CSS selectors, meaning that this could break with newer obsidian versions. I will try to update this snippet if it gets enough traction.
 
 
 
